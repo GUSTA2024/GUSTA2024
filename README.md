@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Power BI, SQL, Excel**
 
-- 💬 Me pergunte sobre **SQL, Power BI, excel e Phython**
+- 💬 Me pergunte **SQL, Power BI, excel e Phython**
 
 - 📫 Você me encontra no E-mail **gustavoribeiroz2021@gmail.com**
 
